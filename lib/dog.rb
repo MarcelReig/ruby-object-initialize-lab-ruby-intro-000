@@ -20,10 +20,4 @@ class Dog
     @breed
   end
 
-
-
-  def name
-    @name
-  end
-
 end
